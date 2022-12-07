@@ -1,0 +1,1 @@
+SHEll init and variables
